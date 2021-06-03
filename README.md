@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maicallist
 - 👀 I’m interested in cryptography.
-- 🌱 I’m currently learning rust, go soon.
+- 🌱 I’m currently learning rust.
 - 💞️ I’m looking to collaborate on anything if time allows.
 - 📫 How to reach me maicallist@gmail.com
 
